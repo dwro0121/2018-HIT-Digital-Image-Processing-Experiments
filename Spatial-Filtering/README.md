@@ -1,6 +1,7 @@
 # Spatial-Filtering
 ### Development Language: Matlab  
-* main.m: Main Function (主函数)  
+* main.m:
+> Main Function (主函数)  
 * Brightness.m: Calculate Brightness (计算亮度)
 * Contrast.m: Calculate Contrast (计算对比度)
 * RGB2HSI.m: RGB to HSI (将RGB颜色空间转换HSI颜色空间)
