@@ -1,6 +1,7 @@
-# Lab1 颜色空间转换
+# Color-Space-Conversion
+---
 * Development Language: Matlab  
-* trans.m: 主函数  
+* trans.m: Main Function(主函数)  
 * readbmp.m: 读取bmp图像文件  
 * RGB2YIQ.m: 将RGB数据转换为YIQ数据  
 * RGB2HSI.m: 将RGB数据转换为HSI数据  
